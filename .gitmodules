@@ -8,6 +8,11 @@
 	url = https://github.com/cran/AllMetrics
 	shallow = true
 	registered = true
+[submodule "CEEMDANML"]
+	path = CEEMDANML
+	url = https://github.com/cran/CEEMDANML
+	shallow = true
+	registered = true
 [submodule "DescribeDF"]
 	path = DescribeDF
 	url = https://github.com/cran/DescribeDF
