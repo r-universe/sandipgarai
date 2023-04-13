@@ -13,6 +13,11 @@
 	url = https://github.com/cran/CEEMDANML
 	shallow = true
 	registered = true
+[submodule "CompareMultipleModels"]
+	path = CompareMultipleModels
+	url = https://github.com/cran/CompareMultipleModels
+	shallow = true
+	registered = true
 [submodule "DescribeDF"]
 	path = DescribeDF
 	url = https://github.com/cran/DescribeDF
