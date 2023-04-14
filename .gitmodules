@@ -8,6 +8,11 @@
 	url = https://github.com/cran/AllMetrics
 	shallow = true
 	registered = true
+[submodule "AriGaMyANNSVR"]
+	path = AriGaMyANNSVR
+	url = https://github.com/cran/AriGaMyANNSVR
+	shallow = true
+	registered = true
 [submodule "CEEMDANML"]
 	path = CEEMDANML
 	url = https://github.com/cran/CEEMDANML
@@ -26,5 +31,10 @@
 [submodule "WaveletML"]
 	path = WaveletML
 	url = https://github.com/cran/WaveletML
+	shallow = true
+	registered = true
+[submodule "WaveletMLbestFL"]
+	path = WaveletMLbestFL
+	url = https://github.com/cran/WaveletMLbestFL
 	shallow = true
 	registered = true
