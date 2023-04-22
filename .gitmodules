@@ -28,6 +28,11 @@
 	url = https://github.com/cran/DescribeDF
 	shallow = true
 	registered = true
+[submodule "MissingHandle"]
+	path = MissingHandle
+	url = https://github.com/cran/MissingHandle
+	shallow = true
+	registered = true
 [submodule "WaveletML"]
 	path = WaveletML
 	url = https://github.com/cran/WaveletML
