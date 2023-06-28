@@ -1,45 +1,28 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "AllMetrics"]
 	path = AllMetrics
 	url = https://github.com/cran/AllMetrics
-	shallow = true
-	registered = true
 [submodule "AriGaMyANNSVR"]
 	path = AriGaMyANNSVR
 	url = https://github.com/cran/AriGaMyANNSVR
-	shallow = true
-	registered = true
 [submodule "CEEMDANML"]
 	path = CEEMDANML
 	url = https://github.com/cran/CEEMDANML
-	shallow = true
-	registered = true
 [submodule "CompareMultipleModels"]
 	path = CompareMultipleModels
 	url = https://github.com/cran/CompareMultipleModels
-	shallow = true
-	registered = true
 [submodule "DescribeDF"]
 	path = DescribeDF
 	url = https://github.com/cran/DescribeDF
-	shallow = true
-	registered = true
 [submodule "MissingHandle"]
 	path = MissingHandle
 	url = https://github.com/cran/MissingHandle
-	shallow = true
-	registered = true
 [submodule "WaveletML"]
 	path = WaveletML
 	url = https://github.com/cran/WaveletML
-	shallow = true
-	registered = true
 [submodule "WaveletMLbestFL"]
 	path = WaveletMLbestFL
 	url = https://github.com/cran/WaveletMLbestFL
-	shallow = true
-	registered = true
