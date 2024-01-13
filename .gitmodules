@@ -17,6 +17,9 @@
 [submodule "DescribeDF"]
 	path = DescribeDF
 	url = https://github.com/cran/DescribeDF
+[submodule "GaMaBioMD"]
+	path = GaMaBioMD
+	url = https://github.com/cran/GaMaBioMD
 [submodule "MissingHandle"]
 	path = MissingHandle
 	url = https://github.com/cran/MissingHandle
@@ -26,3 +29,6 @@
 [submodule "WaveletMLbestFL"]
 	path = WaveletMLbestFL
 	url = https://github.com/cran/WaveletMLbestFL
+[submodule "tsLSTMx"]
+	path = tsLSTMx
+	url = https://github.com/cran/tsLSTMx
