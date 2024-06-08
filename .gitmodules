@@ -23,6 +23,9 @@
 [submodule "MissingHandle"]
 	path = MissingHandle
 	url = https://github.com/cran/MissingHandle
+[submodule "RankPCA"]
+	path = RankPCA
+	url = https://github.com/cran/RankPCA
 [submodule "WaveletML"]
 	path = WaveletML
 	url = https://github.com/cran/WaveletML
