@@ -17,9 +17,6 @@
 [submodule "DescribeDF"]
 	path = DescribeDF
 	url = https://github.com/cran/DescribeDF
-[submodule "GaMaBioMD"]
-	path = GaMaBioMD
-	url = https://github.com/cran/GaMaBioMD
 [submodule "MissingHandle"]
 	path = MissingHandle
 	url = https://github.com/cran/MissingHandle
